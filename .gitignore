@@ -4,7 +4,6 @@ dist
 dist-ssr
 *.local
 count.txt
-.env
 .nitro
 .tanstack
 .wrangler
@@ -17,3 +16,4 @@ todos.json
 .dev.vars*
 !.dev.vars.example
 !.env.example
+config.bat
